@@ -7,7 +7,7 @@ import android.os.Bundle;
 import com.example.cloudnotes.R;
 
 public class LoginActivity extends AppCompatActivity {
-
+    int x;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
